@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Id0k3/Id0k3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### EDM-Projects-Meneses-
+This is my Rep Work
+### About Me
+Hi My Name is Jhon Daniel C. Meneses
+### Education:
+- College: City College of Angeles (BSIS)
+- High School: Francisco G Nepomuceno Memorial High Sschool
+- Elementary: Jose P Dizon Elementary School
+### My Projects
+- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel]()
