@@ -7,4 +7,4 @@ Hi My Name is Jhon Daniel C. Meneses
 - High School: Francisco G Nepomuceno Memorial High Sschool
 - Elementary: Jose P Dizon Elementary School
 ### My Projects
-- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel]()
+- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](pic3-2.JPG)
